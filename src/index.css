@@ -1,0 +1,22 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background-color: #e0dfda;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+h1{
+  align-items: center;
+  margin-bottom: 80px;
+}
